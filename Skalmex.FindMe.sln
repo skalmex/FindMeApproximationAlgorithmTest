@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMe.ApproximationAlgorithmTest", "FindMe.ApproximationAlgorithmTest\FindMe.ApproximationAlgorithmTest.csproj", "{1625119F-8084-4D5B-AFD9-5DE3806A6ED1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1625119F-8084-4D5B-AFD9-5DE3806A6ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1625119F-8084-4D5B-AFD9-5DE3806A6ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1625119F-8084-4D5B-AFD9-5DE3806A6ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1625119F-8084-4D5B-AFD9-5DE3806A6ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D7D6549-B239-45D6-87D1-642454E1E141}
+	EndGlobalSection
+EndGlobal
